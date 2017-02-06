@@ -1,0 +1,7 @@
+These files are only included for reference.
+You do not need to upload them anywhere.
+
+They are already installed on my server (test2.onty.us)
+and the test will use my server, unless of course you 
+reconfigure it :-)
+
