@@ -28,5 +28,5 @@ ensure that previous test runs are cleared.
 1. Load one of the JMX files
 1. Click Run
 
-You can see the results of the test execution on the server here: http://test2.onty.us/postlog.txt
+You can see the results of the test execution on the server here: http://test2.ontytoom.com/postlog.txt
 
